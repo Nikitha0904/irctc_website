@@ -288,7 +288,7 @@ a button:hover{
     div.desc {
       padding: 20px;
       text-align: left;
-      letter-spacing: 0.3px;
+      letter-spacing: 0.5px;
     }
     
     * {
@@ -301,7 +301,7 @@ a button:hover{
      margin-block-start: 20px;
       padding: 0 6px;
       float: left;
-      width: 26%;
+      width: 26.5%;
     }
 
     .Holiday h1{
