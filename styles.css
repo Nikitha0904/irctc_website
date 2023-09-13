@@ -281,12 +281,13 @@ a button:hover{
     
     div.gallery img {
       width: 100%;
-      height: 270px;
+      height: 290px;
     }
     
     div.desc {
       padding: 20px;
-      text-align: center;
+      text-align: left;
+      letter-spacing: 0.5px;
     }
     
     * {
@@ -299,8 +300,7 @@ a button:hover{
      margin-block-start: 20px;
       padding: 0 6px;
       float: left;
-      /* width: 24.99999%; */
-      width: 25%;
+      width: 26%;
     }
 
     .Holiday h1{
